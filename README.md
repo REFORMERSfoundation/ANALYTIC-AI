@@ -1,2 +1,2 @@
-# ANALYTIC-AI
-Faculty &amp; Aspect
+# ANALYTIC AI
+Open-ended machine intelligence
